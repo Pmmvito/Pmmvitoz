@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Pmmvito.Pmmvito&"  />
 </div>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -41,6 +41,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Pmmvito/Pmmvito/output/snake.svg" alt="Snake animation" />
 
 ###
